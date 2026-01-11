@@ -1,0 +1,111 @@
+/* styles for cover, credits, titlepage and title start */
+
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/TimesNewRomanPS-BoldMT.ttf");
+}
+
+.pagetitle {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 900;
+	margin: 50px; 
+}
+
+.author {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 900;
+  margin: 50px;
+}
+
+
+.original-author {
+  text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+   margin: 10px 50px 10px 50px;
+}
+
+.original-title {
+  text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 10px 50px 10px 50px;
+}
+
+.publisher {
+  text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 10px 50px 10px 50px;
+}
+
+.illustrator {
+  text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 10px 50px 10px 50px;
+}
+
+.copyright-disclaimer {
+  text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 10px 50px 10px 50px;
+}
+
+/* styles for cover, credits, titlepage and title end */
+
+/* cover start */
+
+.cover {
+	width: 100%;
+}
+
+/* cover end */
+
+/* credits start */
+
+.credits {
+	width: 100%;
+}
+
+/* credits end */
+
+/* titlepage start */
+
+#titlepage {
+width: 100%;
+}
+
+.content-box {
+ text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 10px 50px 10px 50px;
+}
+
+#publisher {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 10px 50px 10px 50px;
+}
+
+#company-logo {
+text-align: center; 
+  margin: 10px 50px 10px 50px;
+}
+
+/* titlepage end */
+
+/* title start */
+
+.title {
+width: 100%; 
+}
+
+/* title end */
